@@ -1,3 +1,2 @@
-This file is created for text data.
 
 hyee, we're created a demo_repo and then we created two branches one is Feature.login and another one is feature.henil.
